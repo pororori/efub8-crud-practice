@@ -21,7 +21,7 @@ yarn dev
 ```
 
 ## 📋 API 명세서
-스웨거: https://efub6-seminar-front.p-e.kr/swagger-ui/index.html#/Posts
+스웨거: [https://efub6-seminar-front.p-e.kr/swagger-ui/index.html](https://efub6-seminar-front.p-e.kr/swagger-ui/index.html)
 
 | Method | URL | 설명 |
 |--------|-----|------|
@@ -68,7 +68,8 @@ src/
 ## ✨ 과제 제출
 - styled-components로 나만의 스타일로 꾸며주세요!
 - 완성 후 Vercel 등으로 배포해주세요.
-- 이 레포를 **fork**한 뒤 작업하고, `main` 브랜치로 **PR**을 보내주세요.
-- PR 제출 시 아래 내용을 포함해주세요:
+- 완성된 코드를 본인 과제 제출 레포(fork) 의 `week08` 폴더에 넣어주세요.
+- https://github.com/EFUB/efub6-frontend-assignment-1 으로 PR을 보내주세요.
+- PR에 아래 내용을 포함해주세요:
   - 결과물 소개
   - 배포 URL
