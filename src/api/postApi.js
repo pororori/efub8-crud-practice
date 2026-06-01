@@ -2,7 +2,7 @@ import axios from "axios";
 
 // ✅ axios 인스턴스 생성 - baseURL을 미리 설정해두면 매번 전체 URL을 쓰지 않아도 돼요!
 const api = axios.create({
-  baseURL: "http://efub6-seminar-front.p-e.kr",
+  baseURL: "https://efub6-seminar-front.p-e.kr",
 });
 
 // ✅ 게시글 목록 조회
